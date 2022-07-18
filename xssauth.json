@@ -1,8 +1,8 @@
 {
-    "url": "https://raw.githubusercontent.com/takyoni/swaggerxss/main/xss3.yaml",
+    "url": "https://raw.githubusercontent.com/takyoni/swaggerxss/main/xssauth.yaml",
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/takyoni/swaggerxss/main/xss3.yaml",
+            "url": "https://raw.githubusercontent.com/takyoni/swaggerxss/main/xssauth.yaml",
             "name": "Foo"
         }
     ]
