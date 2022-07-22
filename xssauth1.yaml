@@ -6,6 +6,8 @@ securityDefinitions:
 info:
   version: "0.0.1"
   title: Example Title
+  name: "API Support",
+  url: "javascript:alert('xss')"
   description: "(asd)[javascript:alert``)"
 paths:
   /:
