@@ -6,7 +6,7 @@ securityDefinitions:
 info:
   version: "0.0.1"
   title: Example Title
-  description: (asd)[javascript:alert())
+  description: "(asd)[javascript:alert``)"
 paths:
   /:
     get:
