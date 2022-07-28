@@ -1,0 +1,9 @@
+{
+    "url": "https://raw.githubusercontent.com/takyoni/swaggerxss/main/content.yaml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/takyoni/swaggerxss/main/content.yaml",
+            "name": "Foo"
+        }
+    ]
+}
